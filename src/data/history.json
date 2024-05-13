@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Developer",
+    "organisation": "Hong Kong Economic Times Limited",
+    "startDate": "Dec, 2022",
+    "endDate": "Mar, 2023",
+    "experiences": ["Develop Mobile App with Financial & Lifestyle feature with 100,000+ users base ", "Implemented the Android Jetpack including Hilt, Room, Coroutines and Flow to simplify the development process"],
+    "imageSrc": "history/hket.jpg"
+  },
+  {
+    "role": "Senior Mobile Apps Developer",
+    "organisation": "Chief Securities Limited",
+    "startDate": "Sep, 2021",
+    "endDate": "Nov, 2022",
+    "experiences": ["Develop and maintain a mobile application for the financial trading platform", "In order to capture UI issues, employ snapshot testing to observe any visual alterations in both the user interface and data"],
+    "imageSrc": "history/chief_group.jpeg"
+  },
+  {
+    "role": "Senior Mobile Apps Developer",
+    "organisation": "Ztore HK Limited",
+    "startDate": "Aug, 2018",
+    "endDate": "Sep, 2021",
+    "experiences": [
+      "Develop a logistics application (LMS) using Flutter and a Self-pickup application (SPU) using Kotlin independently",
+      "Responsible for managing the publishing multiple platform (Google play store, Apple play store) and using GitHub tools to manage version control of the mobile applications"
+    ],
+    "imageSrc": "history/ztore.png"
+  }
+]

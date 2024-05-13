@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Remember - Expense and Income",
+    "imageSrc": "projects/remember.png",
+    "description": "This is a project made to track the expense and income",
+    "skills": ["Kotlin", "AWS API Gateway", "AWS RDS", "Rest API", "firebase Authentication", "NodeJS"],
+    "demo": "https://play.google.com/store/apps/details?id=com.kenley.remember&hl=en&gl=US",
+    "source": ""
+  },
+  {
+    "title": "Hong Kong Economic Times(HKET)",
+    "imageSrc": "projects/hket.png",
+    "description": "A multimedia application provides financial information, real time news and current affairs information, and accurate econimic data",
+    "skills": ["Kotlin", "Jetpack Compose", "GraphQL"],
+    "demo": "https://play.google.com/store/search?q=hket&c=apps&hl=en&gl=US",
+    "source": ""
+  },
+  {
+    "title": "Chief Trader - Stocks & Funds",
+    "imageSrc": "projects/chief_group.jpeg",
+    "description": "A stock trading platform that includes trading for US stocks, options, Hong Kong Stocks and China stocks.",
+    "skills": ["Kotlin", "Jetpack Compose", "Redux"],
+    "demo": "https://play.google.com/store/apps/details?id=com.megahub.chief.mtrader.activity&hl=en_US",
+    "source": ""
+  },
+  {
+    "title": "Ztore App",
+    "imageSrc": "projects/ztore.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Kotlin", "Java", "Rest Api", "Credit Card Payment"],
+    "demo": "https://play.google.com/store/apps/details?id=com.ztore.app&hl=en_US",
+    "source": ""
+  },
+  {
+    "title": "Self pick-up application",
+    "imageSrc": "projects/spu.png",
+    "description": "I independently developed an application for store staff that utilizes a local payment system to process charges and allows for scanning tickets to retrieve purchases.",
+    "skills": ["Kotlin", "Jetpack", "Rest", "Local Payment"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Logistic Managmement Application",
+    "imageSrc": "projects/lms.png",
+    "description": "I independently developed a logistic mobile application, which provides management and tracking capabilities.",
+    "skills": ["Flutter", "Kotlin", "Java"],
+    "demo": "",
+    "source": ""
+  }
+]
