@@ -2,9 +2,14 @@ import React from "react";
 
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
+import {
+  AppGalleryButton,
+  GooglePlayButton,
+  AppStoreButton,
+} from "react-mobile-app-button";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, description, skills, google_store, app_store },
 }) => {
   return (
     <div className={styles.container}>
@@ -25,12 +30,8 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
-          Demo
-        </a>
-        <a href={source} className={styles.link}>
-          Source
-        </a>
+        {google_store && <GooglePlayButton url={google_store} theme={"dark"}/>}
+        {app_store && <AppStoreButton url={google_store} theme={"dark"}/>}
       </div>
     </div>
   );
