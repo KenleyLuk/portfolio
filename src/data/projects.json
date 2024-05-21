@@ -1,6 +1,6 @@
 [
   {
-    "title": "Remember - Expense and Income",
+    "title": "Remember - Expense and Income (Side Project)",
     "imageSrc": "projects/remember.png",
     "description": "This is a project made to track the expense and income",
     "skills": ["Kotlin", "AWS API Gateway", "AWS RDS", "Github Action(CICD)", "NodeJS"],
